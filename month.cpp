@@ -1,7 +1,7 @@
 /*
 Author: Muhammad Chaudhry
 Course: CSCI-135
-Instructor: Genady Maryash
+Instructor: Michael Zamansky
 Assignment: Lab 1 D
 
 This program asks the user to input the year and the month (1-12), and it outputs the number of days in that month (taking into account leap years).
